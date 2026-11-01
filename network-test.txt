@@ -1,0 +1,26 @@
+香港测试,#genre#
+凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文,http://111.20.40.170/PLTV/88888893/224/3221226547/index.m3u8
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
+凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
+凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+无线翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+无线翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+无线新闻台,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无线新闻台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+香港HOY 78资讯台,https://cdn.qd.je/163189.php?id=hoy78
+香港HOY 78资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+香港ViuTV 99,http://120.234.44.98:18180/TV00000000000000000037@HHZT
+香港ViuTV 99,http://110.235.82.60:8001/bysid/99
+港台电视32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+港台电视31,https://cdn.qd.je/163189.php?id=rthk31
+
+台湾测试,#genre#
+台湾大爱电视,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+台湾大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+台湾大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台湾TVBS新闻,http://50.7.61.148:30080/Entry/tvbsnews
+台湾TVBS,http://50.7.61.148:30080/Entry/tvbs
+台湾台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+
