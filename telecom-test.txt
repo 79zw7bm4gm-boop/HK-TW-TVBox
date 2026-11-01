@@ -1,0 +1,29 @@
+香港凤凰,#genre#
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰中文,http://113.117.74.19:8081/hls/36/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰资讯,http://113.117.74.19:8081/hls/37/index.m3u8
+凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+
+香港无线,#genre#
+无线翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
+无线翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
+
+香港免费,#genre#
+香港HOY 78资讯台,https://cdn.qd.je/163189.php?id=hoy78
+香港HOY 78资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+香港HOY 77,https://cdn.qd.je/163189/hoy2
+香港HOY 76,https://cdn.qd.je/163189.php?id=hoy76
+香港ViuTV 99,http://120.234.44.98:18180/TV00000000000000000037@HHZT
+香港港台电视31,https://cdn.qd.je/163189.php?id=rthk31
+香港港台电视32,https://stream1.freetv.fun/rthk32-1.ctv
+香港耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+
+台湾公网,#genre#
+台湾大爱电视,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+台湾大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+台湾大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+台湾TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
