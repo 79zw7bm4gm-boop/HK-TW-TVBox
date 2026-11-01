@@ -1,9 +1,11 @@
+香港赛马频道,#genre#
+香港有线18台 线路1,http://45.11.92.252/luck/940049/14
+香港有线18台 线路2,rtmp://161.202.204.248:1935/sat/hk041
+香港有线18台 线路3,rtmp://161.202.204.248:1935/sat/hk042
+香港有线18台 线路4,rtmp://59.124.75.157/sat/hk041
+香港有线18台 线路5,rtmp://59.124.75.157/sat/hk042
+
 香港电视,#genre#
-香港有线18台,http://45.11.92.252/luck/940049/14
-香港有线18台,rtmp://161.202.204.248:1935/sat/hk041
-香港有线18台,rtmp://161.202.204.248:1935/sat/hk042
-香港有线18台,rtmp://59.124.75.157/sat/hk041
-香港有线18台,rtmp://59.124.75.157/sat/hk042
 香港赛马直击（非确认Now668）,http://teslagram.com/live/channel_utv_racing.m3u8
 香港HOY 78资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 香港HOY 78资讯台,http://cdn.163189.xyz/live/hoy/stream.m3u8
